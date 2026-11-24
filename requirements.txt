@@ -1,0 +1,4 @@
+customtkinter
+pillow   # Medienpanel (auf dem Pi: install.sh nutzt apt)
+# optional, nur für Videos im Medienpanel:
+opencv-python-headless

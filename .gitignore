@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local configuration and runtime data
+settings.json
+demo_runs.json
+logs/
+
+# Local environments
+.venv/
+venv/
+.env
+
+# Operator-provided media (check redistribution rights before publishing)
+media/*.mp4
+media/*.m4v
+media/*.mov
+media/*.avi
+media/*.mkv
+media/*.webm

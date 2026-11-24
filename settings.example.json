@@ -1,0 +1,10 @@
+{
+  "pins": {
+    "User": "CHANGE_ME",
+    "Demo": "CHANGE_ME",
+    "Super User": "CHANGE_ME",
+    "Developer Mode": "CHANGE_ME"
+  },
+  "robot_ip": "CHANGE_ME",
+  "esc_windowed": false
+}
